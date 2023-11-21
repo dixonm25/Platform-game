@@ -1,5 +1,5 @@
 # Collectible Tutorial
-This tutorial will show you how to add collectibles.
+This tutorial will show you how to add collectibles. Code was taken from - https://www.youtube.com/watch?v=jJonSISrTqQ
 
 # 1. Add a coin object
 Create and scale an object that will represnt your coin.
