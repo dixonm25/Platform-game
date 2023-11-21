@@ -1,5 +1,5 @@
 # Player Movement Tutorial
-This shows how to add basic player movement and gravity to the player so we can jump. Code was taken from -
+This shows how to add basic player movement and gravity to the player so we can jump. Code was taken from - https://youtu.be/_QajrabyTJc?si=ENicKA1AU4kst5sj
 
 # 1. Add a floor
 Firstly add a plane so that the player can move and doesn't fall later on.
