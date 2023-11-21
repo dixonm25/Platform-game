@@ -1,5 +1,5 @@
 # Door and Key Tutorial
-This tutorial shows how to make a simple door and key system. Code was taken from -
+This tutorial shows how to make a simple door and key system. Code was taken from - https://youtu.be/hWbdaihafjo?si=NrCTft2O_1yOdv2H
 
 # 1. Add a door and key object
 Add and scale an object that will represent your door and call it ```Door```.
