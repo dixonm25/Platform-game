@@ -1,5 +1,5 @@
 # Mouse Look Tutorial
-This tutorial shows how to look around with your mouse.
+This tutorial shows how to look around with your mouse. Code was taken from -
 # 1. Create a new scene
 After creating a new scene, create an empty objeect called ``` Player ```.
 
