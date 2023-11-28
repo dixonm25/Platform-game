@@ -106,3 +106,7 @@ void OnTriggerStay()
 ```
 In the Unity editor call the ```Hinge``` at the "doorcolliderhere" again so that the box collider can be disabled again.
 
+Here is what the gameplay should look like:
+
+https://github.com/dixonm25/Platform-game/assets/146852548/b4781e33-e245-4f04-bc5c-08d89dfc7a37
+
