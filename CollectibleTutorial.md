@@ -90,3 +90,9 @@ void UpdateCount()
 }
 ```
 This will also update the the text during the game when a coin is collected.
+
+Here is what the gameplay should look like: 
+
+https://github.com/dixonm25/Platform-game/assets/146852548/d478f92f-2d17-48e2-8ca3-a6e93d155798
+
+
