@@ -68,3 +68,7 @@ xRotation = Mathf.Clamp(xRotation, -90f, 90f);
 ```
 This stops the rotations on the Y axis from going beyond the distance of -90 and 90 degrees.
 
+Here is what the gameplay should look like:
+
+https://github.com/dixonm25/Platform-game/assets/146852548/a6c4813e-8987-41c0-96fc-cb0707d74d5b
+
