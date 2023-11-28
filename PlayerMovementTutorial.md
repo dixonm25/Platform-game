@@ -110,3 +110,9 @@ if(Input.GetButtonDown("Jump") && isGrounded)
 }
 ```
 This checks to see if we are grounded and also if we are pressing the jump button. If these conditions are met we jump.
+
+Here is what the gameplay should look like:
+
+https://github.com/dixonm25/Platform-game/assets/146852548/b917e831-5abf-4435-a656-76b39ff5a31b
+
+
