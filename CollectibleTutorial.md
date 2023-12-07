@@ -11,7 +11,7 @@ First in the Update function add the following code.
 ```ruby
 transform.localRotation = Quaternion.Euler(90f, Time.time * 100f, 0);
 ```
-This will make the coins rotate.
+This will make the coins rotate 100 degrees per second.
 
 # 3. Add a coin counter
 Now back in unity we will add a counter to seee how many coins we have picked up. 
