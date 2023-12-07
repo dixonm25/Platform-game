@@ -14,7 +14,7 @@ transform.localRotation = Quaternion.Euler(90f, Time.time * 100f, 0);
 This will make the coins rotate 100 degrees per second.
 
 # 3. Add a coin counter
-Now back in unity we will add a counter to seee how many coins we have picked up. 
+Now back in unity we will add a counter to see how many coins we have picked up. 
 To do this we will add a canvas object, this can be found under the "UI" tab as shown below:
 
 <img width="355" alt="image" src="https://github.com/dixonm25/GpProject1/assets/146852548/378d7387-a746-49f1-81d4-8ee4268f3ac5">
