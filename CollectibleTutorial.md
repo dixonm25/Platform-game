@@ -24,7 +24,7 @@ After adding the canvas set the scale mode to "Scale with screen size" so that i
 Now add a text object to the canvas and call it "Count" which will be used to display the text which will be updated while playing.
 
 # 4. Add a new script called "CollectibleCount"
-In the text object add a new script called "CollectibleCont". In this script we will keep track of the number of coins we have collected and also see the maximum number of coins that we can collect on the map.
+In the text object add a new script called "CollectibleCount". In this script we will keep track of the number of coins we have collected and also see the maximum number of coins that we can collect on the map.
 
 Back in the "Collectible" script we will add:
 ```ruby
