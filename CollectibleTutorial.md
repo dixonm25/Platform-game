@@ -2,7 +2,7 @@
 This tutorial will show you how to add collectibles. Code was taken from - https://www.youtube.com/watch?v=jJonSISrTqQ
 
 # 1. Add a coin object
-Create and scale an object that will represnt your coin.
+Create and scale an object that will represent your coin.
 Drag this object into the project panel to make it a prefab. This will make it so that when you duplicate the object it will still have the components and values that was added to the original.
 Make sure that in the capsule collider for the object the "Is Trigger" box is ticked. This allows us to trigger a special event when the player interacts with it.
 
